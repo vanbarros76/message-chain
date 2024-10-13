@@ -76,4 +76,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo `LICENSE.md` p
 - Vanessa Barros - https://www.linkedin.com/in/vanessabarros-tech/ - vanessabarros.tech@gmail.com
 - Vinicius Barbieri - https://www.linkedin.com/in/vinibarbieri/ - vinicius190702@hotmail.com
 
-Link do Projeto: https://github.com/vanbarros76/message-chain.git
+- Link do Projeto: https://github.com/vanbarros76/message-chain.git
